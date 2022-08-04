@@ -1,0 +1,2 @@
+# PatikaDev
+BaşlangıçProje
